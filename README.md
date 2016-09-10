@@ -17,6 +17,7 @@ See MIT license included in file for terms of use.
 Instructions for use:
 
 Run the program using Processing version 3.2.1 or later available for free from https://processing.org/download/
+You'll need to add the "ControlP5" Library if you don't already have it installed through the Processing Contribution Manager.
 You will see the OSHW logo in the window.
 Click the checkboxes on the left to add options to the logo.
 The first column of checkboxes will turn the selected option to its right red to signify it is only a partial option.
