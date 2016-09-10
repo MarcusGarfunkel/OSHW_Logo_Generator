@@ -1,16 +1,16 @@
 {
   "Partial_D": 0,
-  "Partial_B": 1,
-  "Partial_C": 1,
-  "Partial_F": 1,
-  "cogOptions_M": 1,
-  "cogOptions_S": 1,
-  "Partial_M": 1,
-  "cogOptions_P": 1,
-  "cogOptions_F": 1,
+  "Partial_B": 0,
+  "Partial_C": 0,
+  "Partial_F": 0,
+  "cogOptions_M": 0,
+  "cogOptions_S": 0,
+  "Partial_M": 0,
+  "cogOptions_P": 0,
+  "cogOptions_F": 0,
   "Partial_P": 0,
-  "cogOptions_D": 1,
-  "Partial_S": 1,
-  "cogOptions_B": 1,
-  "cogOptions_C": 1
+  "cogOptions_D": 0,
+  "Partial_S": 0,
+  "cogOptions_B": 0,
+  "cogOptions_C": 0
 }
