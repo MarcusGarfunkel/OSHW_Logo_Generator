@@ -27,3 +27,6 @@ The newly created logo will be saved as a PNG in the /images folder where the pr
 When you click save, your current settings are also stored in the data folder for conveinient recall next time you run the program.
 
 For addition information regarding this Logo, see this video by Dave Jones of the EEVBlog: https://youtu.be/5wrSXCBdalc
+
+Screenshot:
+![alt tag](https://github.com/MarcusGarfunkel/OSHW_Logo_Generator/blob/master/Screenshot.PNG)
